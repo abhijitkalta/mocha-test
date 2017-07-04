@@ -27,6 +27,8 @@
     "hbs": "^4.0.1"
   },
   "devDependencies": {
-    "mocha": "^3.4.2"
+    "chai": "^4.0.2",
+    "mocha": "^3.4.2",
+    "sinon": "^2.3.6"
   }
 }
